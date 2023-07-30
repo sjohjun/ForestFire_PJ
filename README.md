@@ -3,7 +3,7 @@
 
 ## [1. Streamlit Service](https://kingbeem-forestfire-app-zxbk0n.streamlit.app/ "Streamlit Link")<br/>
 
-## [2. Personal Code](https://github.com/KingBeeM/ForestFire/tree/main/file/code/ "Code Link")<br/>
+## [2. Personal Code](https://github.com/sjohjun/ForestFire_PJ/tree/main/file/code/ "Code Link")<br/>
 
 ## [3. Deep Learning](https://github.com/KingBeeM/ForestFire/blob/main/file/code/DL_EfficientNet.ipynb/ "DL Link")<br/>
 
